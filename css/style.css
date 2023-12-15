@@ -452,13 +452,19 @@ nav {
     transition: 1.5s all ease;
   }
 
-  .items img {
+  .box2 .container1 .items img {
     width: 175px;
     height: 175px;
     border-radius: 50%;
     margin-left:85px;
   }
 
+  .container-instrument .item.item1 img {
+    width: 150px;
+    height: 130px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+  }
 
 
   /* ----------------------------------intruments----------------------------- */
